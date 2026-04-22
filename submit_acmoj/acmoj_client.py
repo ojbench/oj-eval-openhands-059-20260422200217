@@ -172,7 +172,6 @@ def main():
     else:
         # Exit with a non-zero status code to indicate failure to shell scripts
         exit(1)
-        exit(1)
 
 
 
